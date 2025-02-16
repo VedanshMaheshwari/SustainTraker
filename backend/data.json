@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "action": "Carpooling",
+    "date": "2025-01-08",
+    "points": 50
+  },
+  {
+    "id": 1,
+    "action": "Recycling",
+    "date": "2025-01-09",
+    "points": 30
+  },
+  {
+    "id": 2,
+    "action": "Reduced Plastic Use",
+    "date": "2025-01-09",
+    "points": 20
+  }
+]
